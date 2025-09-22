@@ -1,0 +1,40 @@
+{
+  "name": "hellora-game-corner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "5.0.0",
+    "recharts": "^2.1.9",
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.5.26",
+    "xlsx": "^0.18.5",
+    "tailwindcss": "^3.1.7",
+    "postcss": "^8.4.16",
+    "autoprefixer": "^10.4.7",
+    "@headlessui/react": "^1.4.0",
+    "lucide-react": "^0.24.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.1.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
